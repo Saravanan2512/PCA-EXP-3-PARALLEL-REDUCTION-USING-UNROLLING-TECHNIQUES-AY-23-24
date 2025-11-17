@@ -3,7 +3,7 @@
 <h3>ENTER YOUR NAME : SARAVANAN G</h3>
 <h3>ENTER YOUR REGISTER NO : 212223230194</h3>
 <h3>EX. NO :03</h3>
-<h3>DATE :17/10/2025</h3>
+<h3>DATE :17/11/2025</h3>
 <h1> <align=center> PARALLEL REDUCTION USING UNROLLING TECHNIQUES </h3>
   Refer to the kernel reduceUnrolling8 and implement the kernel reduceUnrolling16, in which each thread handles 16 data blocks. Compare kernel performance with reduceUnrolling8 and use the proper metrics and events with nvprof to explain any difference in performance.</h3>
 
@@ -373,7 +373,8 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-<img width="1111" height="102" alt="image" src="https://github.com/user-attachments/assets/aed5dba1-5ede-4919-a698-02313de0a219" />
+<img width="1166" height="239" alt="image" src="https://github.com/user-attachments/assets/19e43094-abc0-43b3-a255-67b8f3630638" />
+
 
 
 ## RESULT:
